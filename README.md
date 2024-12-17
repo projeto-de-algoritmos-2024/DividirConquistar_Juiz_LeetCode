@@ -1,38 +1,30 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Exercícios do Juiz Online LeetCode
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 49<br>
+**Conteúdo da Disciplina**: Dividir e Conquistar<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 17/0008291  |  Cristian Furtado |
+| 21/1041043 |  Juan Pablo |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Serão realizados 3 exercícios na plataforma no LeetCode que são:
+
+- <a href="https://leetcode.com/problems/the-skyline-problem/description/">0218. O problema da linha do horizonte da cidade (Difícil)</a>
+- <a href="https://leetcode.com/problems/continuous-subarrays/description/">2762. Sub-arrays contínuos (Médio)</a>
+- <a href="https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/">0315. Contagem de números menores depois do mesmo (Difícil)</a>
+- <a href="https://leetcode.com/problems/reverse-pairs/description/">0493. Pares reversos (Difícil)</a>
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+![Aceite do exercício 0493](./imgs/0493_accepted.png "Aceite do exercício 0493")
+
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python 3.10.*<br>
+
+Necessário ter instalado na máquina versão do Python 3.10.* para que sejam executados os exercícios e uma conta no site LeetCode.
 
 ## Uso 
 Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
@@ -40,6 +32,11 @@ Explique como usar seu projeto caso haja algum passo a passo após o comando de 
 ## Outros 
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 
+## Links dos vídeos com explicação
+[Exercício 0493]()
 
+[Exercício 0218]()
 
+[Exercício 2762]()
 
+[Exercício 0315]()
