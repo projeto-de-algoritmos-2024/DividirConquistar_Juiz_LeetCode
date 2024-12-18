@@ -33,7 +33,7 @@ Explique como usar seu projeto caso haja algum passo a passo após o comando de 
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 
 ## Links dos vídeos com explicação
-[Exercício 0493]()
+[Exercício 0493](https://drive.google.com/file/d/1ajTsK3Q4FB45POrNL_bjZgXpLYtz6qOA/view?usp=sharing)
 
 [Exercício 0218]()
 
